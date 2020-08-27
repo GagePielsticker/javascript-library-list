@@ -60,6 +60,8 @@
 
 - [Mongoose](https://www.npmjs.com/package/mongoose) - Mongodb ODM
 
+- [MySQL2](https://www.npmjs.com/package/mysql2) - MySQL
+
 - [Redis](https://redis.io/) - In memory datastore allows for effecient and quick cache based stuff
 
 ## API & Backends
