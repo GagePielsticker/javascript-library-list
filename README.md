@@ -129,4 +129,4 @@
 - [Pathfinding](https://www.npmjs.com/package/pathfinding) - Pathfinding library thats easy to use and setup
 
 
-![GitHub stars](https://img.shields.io/github/stars/gagepielsticker/Express-API-Boilerplate?style=social) ![GitHub followers](https://img.shields.io/github/followers/gagepielsticker?style=social)
+![GitHub stars](https://img.shields.io/github/stars/gagepielsticker/javascript-library-list?style=social) ![GitHub followers](https://img.shields.io/github/followers/gagepielsticker?style=social)
