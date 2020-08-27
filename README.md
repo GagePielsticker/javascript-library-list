@@ -114,6 +114,8 @@
 
 - [Chance](https://chancejs.com/) - randomization, weighted chance, and random generation of various things
 
+- [Project-Name-Generator](https://www.npmjs.com/package/project-name-generator) - Generates names and such randomly
+
 ### Game Engines
 - [Babylon](https://www.babylonjs.com/) - More intensive and for 3d stuff
 
