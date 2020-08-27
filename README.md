@@ -6,63 +6,63 @@
 > This is a list of most libraries I tend to consistantly use in my various javascript projects. To clarify this is not every library I have ever come across, just ones I have experience with and I know to work well.
 
 
-## The List
+# The List
 
-### Package Managers
+## Package Managers
 - [NPM](https://www.npmjs.com/) - Everyone knows npm, standard NodeJS Package manager 
 
 - [Yarn](https://yarnpkg.com/) - Normally is faster and less buggy then npm
 
-### Process Managers
+## Process Managers
 - [PM2](https://pm2.keymetrics.io/) - Great process manager for servers to run node/python
 
 - [Nodemon](https://github.com/remy/nodemon) - Good for development, restarts app on file changes and death
 
-### Runners
+## Runners
 - [Puppetteer](https://github.com/puppeteer/puppeteer) - Headless chome process which allows for pretty much everything you can defaulty do in chrome + more utility
 
-### Templating
+## Templating
 - [EJS](https://ejs.co/) - Pretty much my goto templating engine right now, simple to use and understand.
 
 - [Handlebars](https://handlebarsjs.com/) - Another templating engine
 
-### Bundlers
+## Bundlers
 - [ParcelJS](https://github.com/parcel-bundler/parcel) - Has a lot of cool and useful features for bundling webapps and stuff like scss
 
 - [Browserify](https://github.com/browserify/browserify) - NodeJS require() in the browser
 
-### Practices & Documentation
+## Practices & Documentation
 - [StandardJS](https://standardjs.com/) - Enforce this in all my projects, keeps code uniform and clean
 
 - [JSDoc](https://jsdoc.app/about-getting-started.html) - Documentation of code & Doc generation
 
-### Integrations
+## Integrations
 - [DiscordJS](https://discord.js.org/#/) - Discord API wrapper
 
 - [Slack Bot API](https://github.com/mishk0/slack-bot-api) - Slack bot library
 
 - [Twitter](https://www.npmjs.com/package/twitter) - Twitter api wrapper
 
-### Test Runners
+## Test Runners
 - [Jest](https://jestjs.io/) - Javascript Testing Framework
 
 - [Mocha](https://github.com/mochajs/mocha) - Testing Framework
 
-### Data Visualization
+## Data Visualization
 - [ChartJS](https://www.chartjs.org/) - Animated graphs and charts
 
 - [chart.xkcd](https://www.npmjs.com/package/chart.xkcd) - Fun xkcd styled library for data visualization
 
 - [Timesheet.js](https://github.com/sbstjn/timesheet.js) - Good for timelines since chartjs doesnt natively support it
 
-### Databasing
+## Databasing
 - [MongoDB](https://www.npmjs.com/package/mongodb) - MongoDB Driver for node
 
 - [Mongoose](https://www.npmjs.com/package/mongoose) - Mongodb ODM
 
 - [Redis](https://redis.io/) - In memory datastore allows for effecient and quick cache based stuff
 
-### API & Backends
+## API & Backends
 - [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 
 - [My semi-secure express boilerplate](https://github.com/GagePielsticker/Express-API-Boilerplate) - Made this with the intention of having a secure express api boilerplate so that i can throw api's up quickly without necessarily having to worry about the usual express vulnerabilities and such
@@ -71,7 +71,7 @@
 
 - [SocketIO](https://socket.io/) - Good for real time data passage between clients etc like chat apps
 
-### Security
+## Security
 - [Helmet](https://helmetjs.github.io/) - Express HTTP Header middleware which has loads of security headers
 
 - [Express-Rate-Limit](https://www.npmjs.com/package/express-rate-limit) - App based ratelimiting for express
@@ -84,18 +84,18 @@
 
 - [Argon2](https://www.npmjs.com/package/argon2) - Pretty much defacto password encryption right now 
 
-### Image Processing
+## Image Processing
 - [Canvas](https://www.npmjs.com/package/canvas) - Web Canvas but for NodeJS
 
-### Date Library
+## Date Library
 - [Moment](https://momentjs.com/) - Parse, validate, manipulate, and display dates and times in JavaScript
 
-### File System
+## File System
 - [PDFJS](https://github.com/MrRio/jsPDF) - Generated pdfs with js
 
 - [Papa Parse](https://github.com/mholt/PapaParse) - CSV parsing
 
-### CSS Frameworks
+## CSS Frameworks
 - [Bootstrap](https://getbootstrap.com/) - The goto css library for throwing up nice reactive websites
 
 - [Materialize](https://materializecss.com/) - Similar to bootstrap
@@ -105,7 +105,7 @@
 
 - [Request](https://github.com/request/request) - Request library that does what its named, a bit bulkier then stuff like axios but still works well
 
-### QoL & Programming functionally
+## QoL & Programming functionally
 - [Underscore](https://github.com/jashkenas/underscore) - Famous utility belt for js _
 
 - [Lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
@@ -116,12 +116,12 @@
 
 - [Project-Name-Generator](https://www.npmjs.com/package/project-name-generator) - Generates names and such randomly
 
-### Game Engines
+## Game Engines
 - [Babylon](https://www.babylonjs.com/) - More intensive and for 3d stuff
 
 - [Phaser](https://github.com/photonstorm/phaser) - 2d game engine
 
-### Other
+## Other
 - [NodeMailer](https://github.com/nodemailer/nodemailer) - Email sending with node
 
 - [SSH2](https://github.com/mscdex/ssh2) - JS ssh client
