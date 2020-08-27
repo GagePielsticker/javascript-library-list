@@ -1,5 +1,5 @@
 # Javascript Library List
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/GagePielsticker/javascript-library-list/blob/master/LICENSE.md) ![GitHub last commit](https://img.shields.io/github/last-commit/gagepielsticker/javascript-library-list)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/GagePielsticker/javascript-library-list/blob/master/LICENSE.md)
 
 ## Introduction
 
