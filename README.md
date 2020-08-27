@@ -80,7 +80,7 @@
 
 - [XSS-Clean](https://www.npmjs.com/package/xss-clean) - Cleans express req params ect and has a manual filter method
 
-- [Express-Validator])(https://express-validator.github.io/docs/) - Validates express data
+- [Express-Validator](https://express-validator.github.io/docs/) - Validates express data
 
 - [Safe-Compare](https://www.npmjs.com/package/safe-compare) - Prevents time based comparison based attacks on things like keys to api's
 
