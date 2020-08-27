@@ -9,9 +9,9 @@
 ## The List
 
 ### Package Managers
-[NPM](https://www.npmjs.com/) - Everyone knows npm, standard NodeJS Package manager 
+- [NPM](https://www.npmjs.com/) - Everyone knows npm, standard NodeJS Package manager 
 
-[Yarn](https://yarnpkg.com/) - Normally is faster and less buggy then npm
+- [Yarn](https://yarnpkg.com/) - Normally is faster and less buggy then npm
 
 ### Process Managers
 [PM2](https://pm2.keymetrics.io/) - Great process manager for servers to run node/python
