@@ -73,6 +73,13 @@
 
 - [SocketIO](https://socket.io/) - Good for real time data passage between clients etc like chat apps
 
+## Websocket Stuff
+- [ws]() - WebSockets, obviously.
+
+- [HTTP-Proxy-Agent](https://www.npmjs.com/package/https-proxy-agent) - HTTP Proxy
+
+- [SOCKS-Proxy-Agent](https://www.npmjs.com/package/socks-proxy-agent) - SOCKS Proxy
+
 ## Security
 - [Helmet](https://helmetjs.github.io/) - Express HTTP Header middleware which has loads of security headers
 
