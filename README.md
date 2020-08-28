@@ -74,7 +74,7 @@
 - [SocketIO](https://socket.io/) - Good for real time data passage between clients etc like chat apps
 
 ## Websocket Stuff
-- [ws]() - WebSockets, obviously.
+- [ws](https://www.npmjs.com/package/ws) - WebSockets, obviously.
 
 - [HTTP-Proxy-Agent](https://www.npmjs.com/package/https-proxy-agent) - HTTP Proxy
 
