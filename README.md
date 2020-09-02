@@ -31,6 +31,11 @@
 
 - [Browserify](https://github.com/browserify/browserify) - NodeJS require() in the browser
 
+## Application Distrib / builder
+- [Electron](http://datamaps.github.io/scripts/0.4.4/datamaps.all.min.js) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+- [Electron-Builder](https://www.electron.build/) - Builder for electron, can compile to mac, linux, windows, and all sorts of things.
+
 ## Practices & Documentation
 - [StandardJS](https://standardjs.com/) - Enforce this in all my projects, keeps code uniform and clean
 
