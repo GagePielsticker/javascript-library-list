@@ -3,7 +3,7 @@
 
 ## Introduction
 
-> This is a list of most libraries I tend to consistantly use in my various javascript projects. To clarify this is not every library I have ever come across, just ones I have experience with and I know to work well.
+> This is a list of most libraries I tend to consistantly use in my various javascript projects. To clarify this is not every library I have ever come across, just ones I have decent experience with and I know to work well.
 
 
 # The List
