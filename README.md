@@ -18,6 +18,8 @@
 
 - [Nodemon](https://github.com/remy/nodemon) - Good for development, restarts app on file changes and death
 
+- [Watchtower](https://github.com/containrrr/watchtower) - For docker auto deployment, will watch dockerhub for updates and auto deploy if a new build is published
+
 ## Runners
 - [Puppetteer](https://github.com/puppeteer/puppeteer) - Headless chome process which allows for pretty much everything you can defaulty do in chrome + more utility
 
