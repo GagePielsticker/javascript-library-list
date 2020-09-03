@@ -43,6 +43,9 @@
 
 - [JSDoc](https://jsdoc.app/about-getting-started.html) - Documentation of code & Doc generation
 
+## Payment Processing
+- [Stripe](https://www.npmjs.com/package/stripe) - The paypal api is shite, stripe is much easier
+
 ## Integrations
 - [DiscordJS](https://discord.js.org/#/) - Discord API wrapper
 
