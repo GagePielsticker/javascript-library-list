@@ -90,6 +90,7 @@
 
 - [SOCKS-Proxy-Agent](https://www.npmjs.com/package/socks-proxy-agent) - SOCKS Proxy
 
+- [Express JWT Validation](https://www.npmjs.com/package/express-jwt) - Validate json web tokens
 ## Security
 - [Helmet](https://helmetjs.github.io/) - Express HTTP Header middleware which has loads of security headers
 
