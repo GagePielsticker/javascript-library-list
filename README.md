@@ -77,8 +77,6 @@
 ## API & Backends
 - [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 
-- [My semi-secure express boilerplate](https://github.com/GagePielsticker/Express-API-Boilerplate) - Made this with the intention of having a secure express api boilerplate so that i can throw api's up quickly without necessarily having to worry about the usual express vulnerabilities and such
-
 - [Restify](http://restify.com/) - Quick way to throw up rest api's
 
 - [SocketIO](https://socket.io/) - Good for real time data passage between clients etc like chat apps
