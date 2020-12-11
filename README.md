@@ -83,6 +83,14 @@
 
 - [SocketIO](https://socket.io/) - Good for real time data passage between clients etc like chat apps
 
+## Authentication
+
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - Json web token creation and signing
+
+- [Express JWT Validation](https://www.npmjs.com/package/express-jwt) - Validate json web tokens
+
+- [PassportJS](http://www.passportjs.org/) - Authentication through services like google or discords oauth
+
 ## Websocket Stuff
 - [ws](https://www.npmjs.com/package/ws) - WebSockets, obviously.
 
@@ -90,7 +98,6 @@
 
 - [SOCKS-Proxy-Agent](https://www.npmjs.com/package/socks-proxy-agent) - SOCKS Proxy
 
-- [Express JWT Validation](https://www.npmjs.com/package/express-jwt) - Validate json web tokens
 ## Security
 - [Helmet](https://helmetjs.github.io/) - Express HTTP Header middleware which has loads of security headers
 
@@ -150,5 +157,6 @@
 
 - [Pathfinding](https://www.npmjs.com/package/pathfinding) - Pathfinding library thats easy to use and setup
 
+- [short-uuid](https://www.npmjs.com/package/short-uuid) - Short uuidv4 generation
 
 ![GitHub stars](https://img.shields.io/github/stars/gagepielsticker/javascript-library-list?style=social) ![GitHub followers](https://img.shields.io/github/followers/gagepielsticker?style=social)
