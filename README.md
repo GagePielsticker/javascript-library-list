@@ -95,7 +95,7 @@
 
 - [Express-Rate-Limit](https://www.npmjs.com/package/express-rate-limit) - App based ratelimiting for express
 
-- [XSS-Clean](https://www.npmjs.com/package/xss-clean) - Cleans express req params ect and has a manual filter method
+- [xss](https://www.npmjs.com/package/xss) - Xss filter
 
 - [Express-Validator](https://express-validator.github.io/docs/) - Validates express data
 
