@@ -83,14 +83,6 @@
 
 - [SocketIO](https://socket.io/) - Good for real time data passage between clients etc like chat apps
 
-## Authentication
-
-- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - Json web token creation and signing
-
-- [Express JWT Validation](https://www.npmjs.com/package/express-jwt) - Validate json web tokens
-
-- [PassportJS](http://www.passportjs.org/) - Authentication through services like google or discords oauth
-
 ## Websocket Stuff
 - [ws](https://www.npmjs.com/package/ws) - WebSockets, obviously.
 
@@ -109,7 +101,15 @@
 
 - [Safe-Compare](https://www.npmjs.com/package/safe-compare) - Prevents time based comparison based attacks on things like keys to api's
 
-- [Argon2](https://www.npmjs.com/package/argon2) - Pretty much defacto password encryption right now 
+- [BCryptJS](https://www.npmjs.com/package/bcryptjs) - Defacto encryption since forever
+
+- [Argon2](https://www.npmjs.com/package/argon2) - New kid of password encryption
+
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - Json web token creation and signing
+
+- [Express JWT Validation](https://www.npmjs.com/package/express-jwt) - Validate json web tokens
+
+- [PassportJS](http://www.passportjs.org/) - Authentication through services like google or discords oauth
 
 ## Image Processing
 - [Canvas](https://www.npmjs.com/package/canvas) - Web Canvas but for NodeJS
