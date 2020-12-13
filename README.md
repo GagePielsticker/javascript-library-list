@@ -9,7 +9,7 @@
 # The List
 
 ## Package Managers
-- [NPM](https://www.npmjs.com/) - Everyone knows npm, standard NodeJS Package manager 
+- [NPM](https://www.npmjs.com/) - Everyone knows npm, standard NodeJS Package manager
 
 - [Yarn](https://yarnpkg.com/) - Normally is faster and less buggy then npm
 
